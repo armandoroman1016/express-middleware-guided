@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/armandoroman1016/express-middleware-guided#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   },
   "devDependencies": {
     "nodemon": "^1.19.2"
